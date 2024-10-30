@@ -63,10 +63,6 @@ class TechStack:
 
 <div align="center">
 
-```
-📧 [Deine Email]
-🌐 [Deine Website]
-```
 
 </div>
 
